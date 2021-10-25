@@ -2,6 +2,8 @@
 
 <p>Já imaginou o que estuda um estudante de Ciências da Computação da USP?</p>
 <p>Para responder essa dúvida, resolvi criar repositórios referentes a cada semestre. Neste aqui, apresento todos os arquivos referente ao segundo período da USP Ribeirão. </p>
+<p> Grade horária: </p>
+<img src = "https://github.com/ThalitaRibeirao/Assets/blob/main/Arquivos%20Segundo%20Semestre/Grade%202S.png">
 
 ## Introdução a Computação II
 <p>Disciplina voltada a aprofundar os conhecimentos em linguagem C e algoritmos. Você pode encontrar alguns materiais de estudo 
