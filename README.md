@@ -12,3 +12,9 @@
 ### Tecnologias utilizadas
 - C
 - C++
+
+## Linguagens e Paradigmas de Programação
+<p> Toda linguagem de programação possui um paradigma, ou seja, a forma como a linguagem é estruturada. Nesta disciplina, portanto, será apresentado novos paradigmas, como <b>Linguagens Orientadas a Objetos </b> e <b> Linguagens Lógicas</b>. Você pode encontrar materiais de estudo <a href= "">aqui</a>.</p>
+
+### Tecnologias utilizadas
+- Java
